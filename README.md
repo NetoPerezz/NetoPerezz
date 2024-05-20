@@ -5,6 +5,6 @@
 
 #Facultad  de Ingeniería Mecánica y Eléctrica
 ##  Ingeniería en Computación Inteligente
-###  Fundamentos de Programacion 3D
+###  Fundamentos de Programacion 6D
 ###  Estudiante: Ernesto de Jesus Perez Rivera
-###  Profesor: Dr. Walter Alexander Mata López 
+###  
